@@ -11,20 +11,17 @@
  */
 class Solution {
 public:
-  bool Miror(TreeNode* A , TreeNode* B)
-  {
-if(A == NULL && B == NULL) return true;
+ bool miror(TreeNode* a, TreeNode* b)
+ {
+    if( a== NULL&& b== NULL) return true;
+    if(a== NULL || b == NULL) return false;
+    if(a-> val != b-> val) return false;
 
-if(A == NULL || B == NULL)
-return false;
-
-if(A->val != B->val) return false;
-
-return Miror(A->left,B->right) && Miror(A->right, B->left);
-
-  }
+    return miror(a->left,b->right)&& miror(a->right,b->left);
+ }
     bool isSymmetric(TreeNode* root) {
         if(root == NULL) return true;
-        return Miror(root->left,root->right);
+        return miror(root->left,root->right);
+        
     }
 };
