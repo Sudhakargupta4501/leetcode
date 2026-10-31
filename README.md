@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sudhakargupta4501/leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sudhakargupta4501/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Sudhakargupta4501/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sudhakargupta4501/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sudhakargupta4501/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Sudhakargupta4501/leetcode/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
