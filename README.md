@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sudhakargupta4501/leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Sudhakargupta4501/leetcode/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sudhakargupta4501/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sudhakargupta4501/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Sudhakargupta4501/leetcode/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,8 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Sudhakargupta4501/leetcode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Sudhakargupta4501/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Sudhakargupta4501/leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
